@@ -1,2 +1,2 @@
-# KaidaSoftware.github.io
-KaidaSoftware Website
+# FormulaicSolutions.github.io
+FormulaicSolutions Website
