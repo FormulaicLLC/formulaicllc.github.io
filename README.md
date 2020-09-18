@@ -1,2 +1,2 @@
-# FormulaicSolutions.github.io
-FormulaicSolutions Website
+# FormulaicLLC.github.io
+FormulaicLLC Website
