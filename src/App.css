@@ -29,6 +29,7 @@ html, body, #root, .App {
 }
 
 #corpInfo h1 {
+    color: #ffffff;
     /* font-family: 'Texturina', serif; */
     /* font-family: 'Cinzel', serif; */
     font-family: 'Piazzolla', serif;
@@ -36,11 +37,14 @@ html, body, #root, .App {
     margin: 0;
 }
 
+#ai {
+    color: #126CFD;
+    text-shadow: 1px .5px 0px white;
+}
+
 #corpInfo p {
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 2rem;
     margin: 0;
 }
-
-
-
